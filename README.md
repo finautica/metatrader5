@@ -5,6 +5,9 @@ Program Files for MT5 Desktop for usage as the base of a Docker Image for CI/CD.
 ## Why?
 
 MT5 has live updates and it is hard to track updates and standardize them. This Repository serves as a weekly release of any update MetaQuotes deploys for MT5.
+
+This also provides a way to roll back if any new updates fail our CI/CD pipeline.
+
 It also contains all the servers for all brokerages Finautica uses.
 
 ## Disclaimer
